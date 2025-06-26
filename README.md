@@ -1,11 +1,11 @@
 # Typescript Course Outline
 
-## Getting Started with TypeScript
+## 1. Getting Started with TypeScript
 
 - What is TypeScript
 - Running and Configuring the TypeScript Compiler
 
-## Fundamentals
+## 2. Fundamentals
 
 - Introduction
 - Built-in Types
@@ -16,7 +16,7 @@
 - Functions
 - Objects
 
-## Advanced Types
+## 3. Advanced Types
 
 - Type Aliases
 - Union Types
@@ -29,7 +29,7 @@
 - The unknown Type
 - The never Type
 
-## Classes, Interfaces and Object-oriented Programming
+## 4. Classes, Interfaces and Object-oriented Programming
 
 - What is Object-oriented Programming
 - Creating Classes
@@ -48,7 +48,7 @@
 - Interfaces
 - Interfaces vs Types
 
-## Generics
+## 5. Generics
 
 - Understanding the Problem
 - Generic Classes
@@ -59,7 +59,7 @@
 - The keyof Operator
 - Type Mapping
 
-## Decorators
+## 6. Decorators
 
 - What Are Decorators
 - Class Decorators
@@ -70,7 +70,7 @@
 - Property Decorators
 - Parameter Decorators
 
-## Modules
+## 7. Modules
 
 - Exporting and Importing
 - Module Formats
@@ -78,7 +78,7 @@
 - Wildcard Imports
 - Re-exporting
 
-## Integration with JavaScript
+## 8. Integration with JavaScript
 
 - Including JS Code in TS Projects
 - Type Checking JS Code
